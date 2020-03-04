@@ -1,0 +1,149 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="kingstonontheedge.org" resolutions="1x,2x" timestamp="1583296028691">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="339437346" ref="contact:gallery:about:index:participate"/>
+    <file name="nomq_preview_master_a-master.css" crc="213009308" ref="contact:gallery:about:index:participate"/>
+    <file name="contact.css" crc="327674548" ref="contact"/>
+    <file name="nomq_contact.css" crc="438466787" ref="contact"/>
+    <file name="gallery.css" crc="107939789" ref="gallery"/>
+    <file name="nomq_gallery.css" crc="4278016393" ref="gallery"/>
+    <file name="about.css" crc="113938683" ref="about"/>
+    <file name="nomq_about.css" crc="257014403" ref="about"/>
+    <file name="index.css" crc="392957308" ref="index"/>
+    <file name="nomq_index.css" crc="4066305662" ref="index"/>
+    <file name="participate.css" crc="4211425420" ref="participate"/>
+    <file name="nomq_participate.css" crc="3806442974" ref="participate"/>
+  </folder>
+  <folder name="assets">
+    <file name="lg.eot" crc="196672403" seo="true" mt="1461631096000"/>
+    <file name="lg.svg" crc="466834863" seo="true" mt="1461631096000"/>
+    <file name="lg.ttf" crc="288589608" seo="true" mt="1461631096000"/>
+    <file name="lg.woff" crc="4131552084" seo="true" mt="1461631096000"/>
+    <file name="richard-nattoo-available-works-catalogue-june-2018.pdf" crc="4146609403" seo="true" mt="1529429583000"/>
+    <file name="img_0007.jpg" crc="191962888" seo="true" mt="1583108048000"/>
+    <file name="img_0042.jpg" crc="4171416430" seo="true" mt="1583108048000"/>
+    <file name="img_0108.jpg" crc="3831890063" seo="true" mt="1583108048000"/>
+    <file name="img_0114.jpg" crc="394216899" seo="true" mt="1583108048000"/>
+    <file name="img_0125.jpg" crc="4126117988" seo="true" mt="1583108048000"/>
+    <file name="img_0138.jpg" crc="3846725082" seo="true" mt="1583108048000"/>
+    <file name="img_0147.jpg" crc="150355496" seo="true" mt="1583108048000"/>
+    <file name="img_0164.jpg" crc="234823078" seo="true" mt="1583108048000"/>
+    <file name="img_0182.jpg" crc="358514008" seo="true" mt="1583108048000"/>
+    <file name="img_0183.jpg" crc="3823022704" seo="true" mt="1583108048000"/>
+    <file name="img_0186.jpg" crc="3920955520" seo="true" mt="1583108048000"/>
+    <file name="img_0188.jpg" crc="210949265" seo="true" mt="1583108048000"/>
+    <file name="img_00072.jpg" crc="389091049" seo="true" mt="1583089824000"/>
+    <file name="img_00422.jpg" crc="4280688799" seo="true" mt="1583089824000"/>
+    <file name="img_01082.jpg" crc="331300786" seo="true" mt="1583089824000"/>
+    <file name="img_01142.jpg" crc="3925061229" seo="true" mt="1583089825000"/>
+    <file name="img_01252.jpg" crc="372711146" seo="true" mt="1583089825000"/>
+    <file name="img_01382.jpg" crc="283902793" seo="true" mt="1583089825000"/>
+    <file name="img_01472.jpg" crc="484595367" seo="true" mt="1583089825000"/>
+    <file name="img_01642.jpg" crc="86769753" seo="true" mt="1583089825000"/>
+    <file name="img_01822.jpg" crc="3899635025" seo="true" mt="1583089826000"/>
+    <file name="img_01832.jpg" crc="4014986260" seo="true" mt="1583089826000"/>
+    <file name="img_01862.jpg" crc="246069437" seo="true" mt="1583089826000"/>
+    <file name="img_01882.jpg" crc="12133212" seo="true" mt="1583089826000"/>
+    <file name="img_0213.jpg" crc="17105815" seo="true" mt="1583089826000"/>
+    <file name="img_0218.jpg" crc="359150802" seo="true" mt="1583089827000"/>
+    <file name="img_0223.jpg" crc="4279115985" seo="true" mt="1583089827000"/>
+    <file name="img_0230.jpg" crc="110737929" seo="true" mt="1583089827000"/>
+    <file name="img_0235.jpg" crc="477713018" seo="true" mt="1583089827000"/>
+    <file name="img_0236.jpg" crc="357069223" seo="true" mt="1583089827000"/>
+    <file name="img_0239.jpg" crc="4045985475" seo="true" mt="1583089828000"/>
+    <file name="img_0244.jpg" crc="7024867" seo="true" mt="1583089828000"/>
+    <file name="img_0251.jpg" crc="4199378709" seo="true" mt="1583089823000"/>
+    <file name="img_0255.jpg" crc="3761971581" seo="true" mt="1583089823000"/>
+    <file name="img_0257.jpg" crc="500547491" seo="true" mt="1583089823000"/>
+    <file name="img_0261.jpg" crc="4158502315" seo="true" mt="1583089823000"/>
+    <file name="img_02132.jpg" crc="511111049" seo="true" mt="1583108048000"/>
+    <file name="img_02182.jpg" crc="4131663107" seo="true" mt="1583108048000"/>
+    <file name="img_02232.jpg" crc="472324719" seo="true" mt="1583108048000"/>
+    <file name="img_02302.jpg" crc="3906147133" seo="true" mt="1583108048000"/>
+    <file name="img_02352.jpg" crc="3868314772" seo="true" mt="1583108048000"/>
+    <file name="img_02362.jpg" crc="280532732" seo="true" mt="1583108048000"/>
+    <file name="img_02392.jpg" crc="3871657053" seo="true" mt="1583108048000"/>
+    <file name="img_02442.jpg" crc="4025608983" seo="true" mt="1583108048000"/>
+    <file name="img_02512.jpg" crc="4051440533" seo="true" mt="1583108048000"/>
+    <file name="img_02552.jpg" crc="3982912961" seo="true" mt="1583108048000"/>
+    <file name="img_02572.jpg" crc="177700971" seo="true" mt="1583108048000"/>
+    <file name="img_02612.jpg" crc="3785454012" seo="true" mt="1583108048000"/>
+    <file name="img_0262-(1).jpg" crc="4228199615" seo="true" mt="1583108048000"/>
+    <file name="img_0263.jpg" crc="345226430" seo="true" mt="1583108048000"/>
+    <file name="img_0267-(1).jpg" crc="457943337" seo="true" mt="1583108048000"/>
+    <file name="img_0276.jpg" crc="138493498" seo="true" mt="1583108048000"/>
+    <file name="img_0282.jpg" crc="274313463" seo="true" mt="1583108048000"/>
+    <file name="img_7190.jpg" crc="3844274875" seo="true" mt="1583108048000"/>
+    <file name="img_7357.jpg" crc="4027294032" seo="true" mt="1583108048000"/>
+    <file name="img_7478.jpg" crc="4014151912" seo="true" mt="1583108048000"/>
+    <file name="img_7781.jpg" crc="429526068" seo="true" mt="1583108048000"/>
+    <file name="img_7787.jpg" crc="4075364090" seo="true" mt="1583108048000"/>
+    <file name="img_7974.jpg" crc="3915468471" seo="true" mt="1583108048000"/>
+    <file name="img_8051.jpg" crc="225420803" seo="true" mt="1583108048000"/>
+    <file name="img_0262-(1)2.jpg" crc="241110746" seo="true" mt="1583089828000"/>
+    <file name="img_02632.jpg" crc="399894769" seo="true" mt="1583089824000"/>
+    <file name="img_0267-(1)2.jpg" crc="4093238791" seo="true" mt="1583089828000"/>
+    <file name="img_02762.jpg" crc="4021521074" seo="true" mt="1583089824000"/>
+    <file name="img_02822.jpg" crc="3954969122" seo="true" mt="1583089824000"/>
+    <file name="img_71902.jpg" crc="4281783391" seo="true" mt="1583089821000"/>
+    <file name="img_73572.jpg" crc="4290027474" seo="true" mt="1583089821000"/>
+    <file name="img_74782.jpg" crc="413260649" seo="true" mt="1583089821000"/>
+    <file name="img_77812.jpg" crc="4072760890" seo="true" mt="1583089822000"/>
+    <file name="img_77872.jpg" crc="43772292" seo="true" mt="1583089822000"/>
+    <file name="img_79742.jpg" crc="3949005018" seo="true" mt="1583089822000"/>
+    <file name="img_80512.jpg" crc="4192886060" seo="true" mt="1583089822000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:contact:index:gallery:participate"/>
+    <file name="museutils.js" crc="163421577" ref="about:contact:index:gallery:participate"/>
+    <file name="whatinput.js" crc="86476730" ref="about:contact:index:gallery:participate"/>
+    <file name="museconfig.js" crc="168988563" ref="about:contact:index:gallery:participate"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="about:contact:index:gallery:participate"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="about:index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="about:contact:index:gallery:participate"/>
+    <file name="html5shiv.js" crc="4241844378" ref="about:contact:index:gallery:participate"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="about:contact:index:gallery:participate"/>
+    <file name="require.js" crc="244322403" ref="about:contact:index:gallery:participate"/>
+  </folder>
+  <folder name="images">
+    <file name="about-favicon.ico" crc="452132430" ref="about"/>
+    <file name="edge logo.png" crc="3993715708" seo="true" ref="about:contact:index:gallery:participate"/>
+    <file name="edge logo_2x.png" crc="3811645921" seo="true" ref="about:contact:index:gallery:participate"/>
+    <file name="fb-layer 1.png" crc="211234662" ref="about"/>
+    <file name="fb-layer 1_2x.png" crc="313274394" ref="about"/>
+    <file name="fb-layer 1 copy.png" crc="145519762" ref="about"/>
+    <file name="fb-layer 1 copy_2x.png" crc="57431774" ref="about"/>
+    <file name="in-layer 1.png" crc="465830822" ref="about"/>
+    <file name="in-layer 1_2x.png" crc="4115741613" ref="about"/>
+    <file name="in-layer 1 copy.png" crc="234529118" ref="about"/>
+    <file name="in-layer 1 copy_2x.png" crc="147163567" ref="about"/>
+    <file name="tw-layer 1.png" crc="4237550547" ref="about"/>
+    <file name="tw-layer 1_2x.png" crc="321073843" ref="about"/>
+    <file name="tw-layer 1 copy.png" crc="376890892" ref="about"/>
+    <file name="tw-layer 1 copy_2x.png" crc="62268099" ref="about"/>
+    <file name="contour.png" crc="3911658987" ref="about:contact:index:gallery:participate"/>
+    <file name="contour_2x.png" crc="3856017681" ref="about:contact:index:gallery:participate"/>
+    <file name="blank.gif" crc="4208392903" ref="about:contact:index:gallery:participate"/>
+    <file name="contact-favicon.ico" crc="452132430" ref="contact"/>
+    <file name="home-favicon.ico" crc="452132430" ref="index"/>
+    <file name="email signature330x330.png" crc="3794978200" seo="true" ref="index"/>
+    <file name="email signature330x330_2x.png" crc="4105291674" seo="true" ref="index"/>
+    <file name="call for artists.gif" crc="4161264999" ref="index:participate"/>
+    <file name="call for artists_2x.gif" crc="4161264999" ref="index:participate"/>
+    <file name="email signature.png" crc="4032647597" seo="true" ref="index"/>
+    <file name="email signature_2x.png" crc="4105291674" seo="true" ref="index"/>
+    <file name="email signature225x225.png" crc="4280562423" seo="true" ref="index"/>
+    <file name="email signature225x225_2x.png" crc="308069540" seo="true" ref="index"/>
+    <file name="email signature194x194.png" crc="3939816489" seo="true" ref="index"/>
+    <file name="email signature194x194_2x.png" crc="4188634960" seo="true" ref="index"/>
+    <file name="email signature205x205.png" crc="325009400" seo="true" ref="index"/>
+    <file name="email signature205x205_2x.png" crc="454890483" seo="true" ref="index"/>
+    <file name="gallery-favicon.ico" crc="452132430" ref="gallery"/>
+    <file name="participate-favicon.ico" crc="452132430" ref="participate"/>
+  </folder>
+  <file name="about.html" crc="3825888398" seo="true" mt="1583295960169" redirect="true"/>
+  <file name="contact.html" crc="3801974567" seo="true" mt="1583288998584" redirect="true"/>
+  <file name="index.html" crc="243544583" seo="true" mt="1583295977490" redirect="true"/>
+  <file name="gallery.html" crc="76811806" seo="true" mt="1583288998584" redirect="true"/>
+  <file name="participate.html" crc="439939499" seo="true" mt="1583293740566" redirect="true"/>
+</manifest>
